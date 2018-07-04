@@ -1,0 +1,372 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laweddingwebsite.com/proyectos/fabyjp" resolutions="1x" timestamp="1530664459985">
+  <folder name="css">
+    <file name="site_global.css" crc="3807014330"/>
+    <file name="master_master-patz.css" crc="3789225077" ref="conoce-pátzcuaro"/>
+    <file name="nomq_preview_master_master-patz.css" crc="311177644" ref="conoce-pátzcuaro"/>
+    <file name="master_master-main.css" crc="435065734" ref="index"/>
+    <file name="nomq_preview_master_master-main.css" crc="92922621" ref="index"/>
+    <file name="master_master-rsvp.css" crc="3944715237" ref="rsvp"/>
+    <file name="nomq_preview_master_master-rsvp.css" crc="3824530138" ref="rsvp"/>
+    <file name="index.css" crc="377087445" ref="index"/>
+    <file name="nomq_index.css" crc="295640284" ref="index"/>
+    <file name="conoce-p_tzcuaro.css" crc="4011582651" ref="conoce-pátzcuaro"/>
+    <file name="nomq_conoce-p_tzcuaro.css" crc="4009995613" ref="conoce-pátzcuaro"/>
+    <file name="rsvp.css" crc="4230592903" ref="rsvp"/>
+    <file name="nomq_rsvp.css" crc="164812434" ref="rsvp"/>
+  </folder>
+  <folder name="fonts">
+    <file name="average-v6-latin-regular.woff" crc="285385230"/>
+    <file name="average-v6-latin-regular.eot" crc="401112553"/>
+    <file name="average-v6-latin-regular.svg" crc="3762825052"/>
+    <file name="circularstd-book.woff" crc="3857400199"/>
+    <file name="circularstd-book.eot" crc="451145261"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="museutils.js" crc="340535759" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="whatinput.js" crc="86476730" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="museconfig.js" crc="310584261" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="require.js" crc="7928878" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="webpro.js" crc="4059564322" ref="rsvp"/>
+    <file name="form_check.php" crc="3820983874" ref="rsvp"/>
+    <file name="form_process.php" crc="3776570906" ref="rsvp"/>
+    <file name="form-u11481.php" crc="72072480" ref="rsvp"/>
+  </folder>
+  <folder name="images">
+    <file name="faby-y-juan-pablo-favicon.ico" crc="4235034518" ref="index"/>
+    <file name="faby y jp cover.jpg" crc="149245159" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titles f-jp-02-u19102.png" crc="3844504868" ref="index"/>
+    <file name="titles f-jp-09.png" crc="441951058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faby y jp itinerario-u174-fr.jpg" crc="3810462932" ref="index"/>
+    <file name="titles f-jp-03.png" crc="433509232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faby y jp mesa-u222-fr.jpg" crc="3774313054" ref="index"/>
+    <file name="titles f-jp-10.png" crc="4210435069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bed-bath-and-beyond-logo copy.png" crc="4039674449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="liverpool.png" crc="4121245340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faby y jp gallery 3.jpg" crc="195786754" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faby y jp gallery 2.jpg" crc="529944255" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_mg_3309 copy.jpg" crc="4067642204" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titles f-jp-11.png" crc="528471155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_mg_3217 copy.jpg" crc="339153067" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titles f-jp-04.png" crc="347822645" seo="true" ref="index:conoce-pátzcuaro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="img_0927 copy 2-u7558-fr.jpg" crc="3958728392" ref="index"/>
+    <file name="_mg_3200 copy.jpg" crc="341178477" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titles f-jp-05.png" crc="128642629" seo="true" ref="index:conoce-pátzcuaro:rsvp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+    </file>
+    <file name="faby y jp cover-u115-fr.jpg" crc="172308912" ref="index"/>
+    <file name="titles f-jp-02-u191022.png" crc="3898878949" ref="index"/>
+    <file name="faby y jp itinerario-u174-fr2.jpg" crc="3865791548" ref="index"/>
+    <file name="faby y jp mesa-u222-fr2.jpg" crc="101084803" ref="index"/>
+    <file name="faby y jp gallery 3-u7387-fr.jpg" crc="3959271080" ref="index"/>
+    <file name="faby y jp gallery 2-u7489-fr.jpg" crc="3984523614" ref="index"/>
+    <file name="_mg_3309 copy-u7507-fr.jpg" crc="196246253" ref="index"/>
+    <file name="_mg_3217 copy-u245-fr.jpg" crc="304572519" ref="index"/>
+    <file name="img_0927 copy 2-u7558-fr2.jpg" crc="4116140599" ref="index"/>
+    <file name="faby y jp cover2.jpg" crc="1962134" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="titles f-jp-01-u19176.png" crc="4073421568" ref="index"/>
+    <file name="faby y jp itinerario-u174-fr3.jpg" crc="98377740" ref="index"/>
+    <file name="faby y jp mesa-u222-fr3.jpg" crc="3785993283" ref="index"/>
+    <file name="img_0927 copy 2-u7558-fr3.jpg" crc="76300921" ref="index"/>
+    <file name="_mg_3200 copy-u20235-fr.jpg" crc="224469468" ref="index"/>
+    <file name="titles f-jp-01-u191762.png" crc="4091523263" ref="index"/>
+    <file name="faby y jp itinerario-u174-fr4.jpg" crc="458145383" ref="index"/>
+    <file name="faby y jp mesa-u222-fr4.jpg" crc="95853637" ref="index"/>
+    <file name="faby y jp gallery 3-u7387-fr2.jpg" crc="431938103" ref="index"/>
+    <file name="faby y jp gallery 2-u7489-fr2.jpg" crc="343870978" ref="index"/>
+    <file name="_mg_3309 copy-u7507-fr2.jpg" crc="4133808656" ref="index"/>
+    <file name="_mg_3217 copy-u245-fr2.jpg" crc="4111096717" ref="index"/>
+    <file name="img_0927 copy 2-u7558-fr4.jpg" crc="3866392965" ref="index"/>
+    <file name="_mg_3200 copy-u20282-fr.jpg" crc="3823170353" ref="index"/>
+    <file name="faby y jp cover2-u4378-fr.jpg" crc="479486650" ref="index"/>
+    <file name="titles f-jp-01-u191763.png" crc="4282420358" ref="index"/>
+    <file name="faby y jp itinerario-u174-fr5.jpg" crc="4022226143" ref="index"/>
+    <file name="faby y jp mesa-u222-fr5.jpg" crc="4030317924" ref="index"/>
+    <file name="faby y jp gallery 3-u7387-fr3.jpg" crc="60428964" ref="index"/>
+    <file name="faby y jp gallery 2-u7489-fr3.jpg" crc="24239800" ref="index"/>
+    <file name="_mg_3309 copy-u7507-fr3.jpg" crc="4188994004" ref="index"/>
+    <file name="_mg_3217 copy-u245-fr3.jpg" crc="488945848" ref="index"/>
+    <file name="img_0927 copy 2-u7558-fr5.jpg" crc="182081831" ref="index"/>
+    <file name="_mg_3200 copy-u20282-fr2.jpg" crc="4239712249" ref="index"/>
+    <file name="faby y jp cover2-u4378-fr2.jpg" crc="4053751809" ref="index"/>
+    <file name="titles f-jp-01-u191764.png" crc="4282420358" ref="index"/>
+    <file name="faby y jp itinerario-u174-fr6.jpg" crc="4150621214" ref="index"/>
+    <file name="faby y jp mesa-u222-fr6.jpg" crc="273179635" ref="index"/>
+    <file name="faby y jp gallery 3-u7387-fr4.jpg" crc="226922905" ref="index"/>
+    <file name="faby y jp gallery 2-u7489-fr4.jpg" crc="3996176349" ref="index"/>
+    <file name="_mg_3309 copy-u7507-fr4.jpg" crc="490634629" ref="index"/>
+    <file name="_mg_3217 copy-u245-fr4.jpg" crc="3866548326" ref="index"/>
+    <file name="faby y jp cover2-u4378-fr3.jpg" crc="4236280209" ref="index"/>
+    <file name="titles f-jp-01-u191765.png" crc="3855293556" ref="index"/>
+    <file name="faby y jp itinerario-u174-fr7.jpg" crc="399386468" ref="index"/>
+    <file name="faby y jp itinerario-u14595-fr.jpg" crc="170049755" ref="index"/>
+    <file name="faby y jp mesa-u222-fr7.jpg" crc="356935154" ref="index"/>
+    <file name="faby y jp mesa-u14612-fr.jpg" crc="3801814036" ref="index"/>
+    <file name="_mg_3374 copy-u14629-fr.jpg" crc="162047566" ref="index"/>
+    <file name="_mg_3193 copy-u14646-fr.jpg" crc="324479996" ref="index"/>
+    <file name="_mg_3309 copy-u14663-fr.jpg" crc="281244487" ref="index"/>
+    <file name="_mg_3217 copy-u14680-fr.jpg" crc="3776451822" ref="index"/>
+    <file name="img_0927 copy 2-u7558-fr6.jpg" crc="316644533" ref="index"/>
+    <file name="_mg_3200 copy-u14741-fr.jpg" crc="4255524133" ref="index"/>
+    <file name="faby y jp cover2-u4378-fr4.jpg" crc="4138572973" ref="index"/>
+    <file name="titles f-jp-01-u191766.png" crc="4282420358" ref="index"/>
+    <file name="faby y jp itinerario-u174-fr8.jpg" crc="4159556769" ref="index"/>
+    <file name="faby y jp mesa-u222-fr8.jpg" crc="4180614180" ref="index"/>
+    <file name="_mg_3374 copy-u14629-fr2.jpg" crc="4157655266" ref="index"/>
+    <file name="_mg_3193 copy-u14646-fr2.jpg" crc="100063723" ref="index"/>
+    <file name="_mg_3309 copy-u14663-fr2.jpg" crc="3962654262" ref="index"/>
+    <file name="_mg_3217 copy-u14680-fr2.jpg" crc="3810651197" ref="index"/>
+    <file name="img_0927 copy 2-u7558-fr7.jpg" crc="331119855" ref="index"/>
+    <file name="_mg_3200 copy-u14741-fr2.jpg" crc="326829051" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="conoce-pátzcuaro-favicon.ico" crc="4235034518" ref="conoce-pátzcuaro"/>
+    <file name="titles f-jp-01.png" crc="4017886800" seo="true" ref="conoce-pátzcuaro:rsvp">
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="rsvp" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="patzcuarocover.jpg" crc="535744431" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="basilica.jpg" crc="4006003908" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="titles f-jp-06.png" crc="4213576547" seo="true" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="img_0915 copy 2.jpg" crc="3809512481" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="titles f-jp-07.png" crc="4105841393" seo="true" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="img_0934 copy 2.jpg" crc="527677901" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="titles f-jp-08.png" crc="3856644670" seo="true" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="img_1096 copy.jpg" crc="163994518" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="img_0927 copy 2.jpg" crc="220484300" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="patzcuaro_viaja_bonito_4 copy.jpg" crc="4125255167" ref="conoce-pátzcuaro">
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+      <caption webpage="conoce-pátzcuaro" alt=""/>
+    </file>
+    <file name="patzcuarocover-u920-fr.jpg" crc="4213092274" ref="conoce-pátzcuaro"/>
+    <file name="patzcuarocover-u920-fr2.jpg" crc="335894623" ref="conoce-pátzcuaro"/>
+    <file name="patzcuarocover-u920-fr3.jpg" crc="4013714044" ref="conoce-pátzcuaro"/>
+    <file name="img_0915 copy 2-u966-fr.jpg" crc="3778616425" ref="conoce-pátzcuaro"/>
+    <file name="img_1096 copy-u1125-fr.jpg" crc="156341868" ref="conoce-pátzcuaro"/>
+    <file name="patzcuarocover-u920-fr4.jpg" crc="4110626396" ref="conoce-pátzcuaro"/>
+    <file name="basilica-u940-fr.jpg" crc="296524027" ref="conoce-pátzcuaro"/>
+    <file name="img_0915 copy 2-u966-fr2.jpg" crc="4275057834" ref="conoce-pátzcuaro"/>
+    <file name="img_0934 copy 2-u1079-fr.jpg" crc="4105765657" ref="conoce-pátzcuaro"/>
+    <file name="img_1096 copy-u1125-fr2.jpg" crc="506477508" ref="conoce-pátzcuaro"/>
+    <file name="img_0927 copy 2-u1145-fr.jpg" crc="4038709792" ref="conoce-pátzcuaro"/>
+    <file name="patzcuaro_viaja_bonito_4 copy-u1148-fr.jpg" crc="533238791" ref="conoce-pátzcuaro"/>
+    <file name="patzcuarocover-u920-fr5.jpg" crc="3825089740" ref="conoce-pátzcuaro"/>
+    <file name="basilica-u940-fr2.jpg" crc="463898893" ref="conoce-pátzcuaro"/>
+    <file name="img_0915 copy 2-u966-fr3.jpg" crc="3768883965" ref="conoce-pátzcuaro"/>
+    <file name="img_0934 copy 2-u1079-fr2.jpg" crc="4174038076" ref="conoce-pátzcuaro"/>
+    <file name="img_1096 copy-u1125-fr3.jpg" crc="331892625" ref="conoce-pátzcuaro"/>
+    <file name="img_0927 copy 2-u1145-fr2.jpg" crc="394648893" ref="conoce-pátzcuaro"/>
+    <file name="patzcuaro_viaja_bonito_4 copy-u1148-fr2.jpg" crc="3836021311" ref="conoce-pátzcuaro"/>
+    <file name="img_0934 copy 2-u1079-fr3.jpg" crc="83848543" ref="conoce-pátzcuaro"/>
+    <file name="img_0927 copy 2-u1145-fr3.jpg" crc="4000393261" ref="conoce-pátzcuaro"/>
+    <file name="patzcuaro_viaja_bonito_4 copy-u1148-fr3.jpg" crc="120863499" ref="conoce-pátzcuaro"/>
+    <file name="patzcuarocover-u920-fr6.jpg" crc="223498948" ref="conoce-pátzcuaro"/>
+    <file name="img_0915 copy 2-u966-fr4.jpg" crc="362748525" ref="conoce-pátzcuaro"/>
+    <file name="img_0934 copy 2-u1079-fr4.jpg" crc="4140118446" ref="conoce-pátzcuaro"/>
+    <file name="img_1096 copy-u1125-fr4.jpg" crc="292448558" ref="conoce-pátzcuaro"/>
+    <file name="img_0927 copy 2-u1145-fr4.jpg" crc="249478984" ref="conoce-pátzcuaro"/>
+    <file name="patzcuaro_viaja_bonito_4 copy-u1148-fr4.jpg" crc="46735100" ref="conoce-pátzcuaro"/>
+    <file name="rsvp-favicon.ico" crc="4235034518" ref="rsvp"/>
+    <file name="faby y jp rsvp.jpg" crc="3776896569" ref="rsvp">
+      <caption webpage="rsvp" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="rsvp">
+      <caption webpage="rsvp" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="rsvp">
+      <caption webpage="rsvp" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="rsvp">
+      <caption webpage="rsvp" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="rsvp">
+      <caption webpage="rsvp" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="rsvp">
+      <caption webpage="rsvp" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="rsvp">
+      <caption webpage="rsvp" alt=""/>
+    </file>
+    <file name="faby y jp rsvp-u11470-fr.jpg" crc="342026204" ref="rsvp"/>
+    <file name="faby y jp rsvp copy-u14953-fr.jpg" crc="3831390300" ref="rsvp"/>
+    <file name="faby y jp rsvp copy-u14953-fr2.jpg" crc="3944868579" ref="rsvp"/>
+    <file name="faby y jp rsvp copy-u14953-fr3.jpg" crc="509410365" ref="rsvp"/>
+    <file name="faby y jp rsvp copy-u14953-fr4.jpg" crc="3983910723" ref="rsvp"/>
+  </folder>
+  <file name="index.html" crc="4119091667" seo="true" mt="1530662565833" redirect="true"/>
+  <file name="conoce-pátzcuaro.html" crc="417246665" seo="true" mt="1530662565836" redirect="true"/>
+  <file name="rsvp.html" crc="3783027278" seo="true" mt="1530662796382" redirect="true"/>
+</manifest>
