@@ -30,9 +30,6 @@ $form = array(
 		'from' => 'marcelabenavides22@gmail.com',
 		'to' => 'marcelabenavides22@gmail.com'
 	),
-	'recaptcha2' => array(
-		'private_key' => '6Lc3K2IUAAAAAFgsu14ROQ3AXDxwiCWwQly2_d0Q'
-	),
 	'fields' => array(
 		'custom_U11482' => array(
 			'order' => 1,
@@ -79,26 +76,15 @@ $form = array(
 				'required' => 'Field \'No. de pases a confirmar\' is required.'
 			)
 		),
-		'g-recaptcha-response' => array(
-			'order' => 7,
-			'type' => 'recaptcha2',
-			'label' => 'Image Verification',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Image Verification\' is required.',
-				'format' => 'Incorrect reCAPTCHA 2.0 value.'
-			)
-		),
 		'custom_U11637' => array(
 			'order' => 6,
 			'type' => 'checkboxgroup',
 			'label' => 'Preferencia de platillo',
-			'required' => true,
+			'required' => false,
 			'optionItems' => array(
 				'Vegetariano'
 			),
 			'errors' => array(
-				'required' => 'Field \'Preferencia de platillo\' is required.',
 				'format' => 'Field \'Preferencia de platillo\' has an invalid value.'
 			)
 		)
