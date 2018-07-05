@@ -1,18 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laweddingwebsite.com/proyectos/fabyjp" resolutions="1x" timestamp="1530749483797">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laweddingwebsite.com/proyectos/fabyjp" resolutions="1x" timestamp="1530750432391">
   <folder name="css">
     <file name="site_global.css" crc="3847540803"/>
-    <file name="master_master-main.css" crc="3853281277" ref="index"/>
-    <file name="nomq_preview_master_master-main.css" crc="4279188340" ref="index"/>
-    <file name="master_master-rsvp.css" crc="4274316923" ref="rsvp"/>
-    <file name="nomq_preview_master_master-rsvp.css" crc="3824530138" ref="rsvp"/>
-    <file name="master_master-patz.css" crc="4152771776" ref="conoce-pátzcuaro"/>
-    <file name="nomq_preview_master_master-patz.css" crc="219032705" ref="conoce-pátzcuaro"/>
-    <file name="index.css" crc="3934932380" ref="index"/>
-    <file name="nomq_index.css" crc="54592081" ref="index"/>
-    <file name="rsvp.css" crc="151321179" ref="rsvp"/>
-    <file name="nomq_rsvp.css" crc="534078867" ref="rsvp"/>
-    <file name="conoce-p_tzcuaro.css" crc="3981301887" ref="conoce-pátzcuaro"/>
-    <file name="nomq_conoce-p_tzcuaro.css" crc="4019837276" ref="conoce-pátzcuaro"/>
+    <file name="master_master-patz.css" crc="3798876831" ref="conoce-pátzcuaro"/>
+    <file name="nomq_preview_master_master-patz.css" crc="195885665" ref="conoce-pátzcuaro"/>
+    <file name="master_master-main.css" crc="4274435299" ref="index"/>
+    <file name="nomq_preview_master_master-main.css" crc="4145570276" ref="index"/>
+    <file name="index.css" crc="3868835840" ref="index"/>
+    <file name="nomq_index.css" crc="121083978" ref="index"/>
+    <file name="conoce-p_tzcuaro.css" crc="89567667" ref="conoce-pátzcuaro"/>
+    <file name="nomq_conoce-p_tzcuaro.css" crc="4202355048" ref="conoce-pátzcuaro"/>
   </folder>
   <folder name="fonts">
     <file name="average-v6-latin-regular.woff" crc="285385230"/>
@@ -22,19 +18,14 @@
     <file name="circularstd-book.eot" crc="451145261"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:conoce-pátzcuaro:rsvp"/>
-    <file name="museutils.js" crc="340535759" ref="index:conoce-pátzcuaro:rsvp"/>
-    <file name="whatinput.js" crc="86476730" ref="index:conoce-pátzcuaro:rsvp"/>
-    <file name="museconfig.js" crc="310584261" ref="index:conoce-pátzcuaro:rsvp"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:conoce-pátzcuaro:rsvp"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:conoce-pátzcuaro:rsvp"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:conoce-pátzcuaro:rsvp"/>
-    <file name="require.js" crc="7928878" ref="index:conoce-pátzcuaro:rsvp"/>
-    <file name="webpro.js" crc="4059564322" ref="rsvp"/>
-    <file name="form_check.php" crc="4020933626" ref="rsvp"/>
-    <file name="form_throttle.php" crc="4259590256" ref="rsvp"/>
-    <file name="form_process.php" crc="37464564" ref="rsvp"/>
-    <file name="form-u11481.php" crc="4256692679" ref="rsvp"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:conoce-pátzcuaro"/>
+    <file name="museutils.js" crc="340535759" ref="index:conoce-pátzcuaro"/>
+    <file name="whatinput.js" crc="86476730" ref="index:conoce-pátzcuaro"/>
+    <file name="museconfig.js" crc="310584261" ref="index:conoce-pátzcuaro"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:conoce-pátzcuaro"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:conoce-pátzcuaro"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:conoce-pátzcuaro"/>
+    <file name="require.js" crc="7928878" ref="index:conoce-pátzcuaro"/>
   </folder>
   <folder name="images">
     <file name="faby-y-juan-pablo-favicon.ico" crc="4235034518" ref="index"/>
@@ -163,7 +154,7 @@
     <file name="_mg_3200 copy.jpg" crc="341178477" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="titles f-jp-05.png" crc="128642629" seo="true" ref="index:conoce-pátzcuaro:rsvp">
+    <file name="titles f-jp-05.png" crc="128642629" seo="true" ref="index:conoce-pátzcuaro">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -184,12 +175,6 @@
       <caption webpage="conoce-pátzcuaro" alt=""/>
       <caption webpage="conoce-pátzcuaro" alt=""/>
       <caption webpage="conoce-pátzcuaro" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
     </file>
     <file name="titles f-jp-02-u191022.png" crc="3844504868" ref="index"/>
     <file name="faby y jp itinerario-u174-fr2.jpg" crc="4003443947" ref="index"/>
@@ -281,9 +266,9 @@
     <file name="_mg_3217 copy-u14680-fr2.jpg" crc="3810651197" ref="index"/>
     <file name="img_0927 copy 2-u7558-fr7.jpg" crc="331119855" ref="index"/>
     <file name="_mg_3200 copy-u14741-fr2.jpg" crc="326829051" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:conoce-pátzcuaro:rsvp"/>
+    <file name="blank.gif" crc="4208392903" ref="index:conoce-pátzcuaro"/>
     <file name="conoce-pátzcuaro-favicon.ico" crc="4235034518" ref="conoce-pátzcuaro"/>
-    <file name="titles f-jp-01.png" crc="4017886800" seo="true" ref="conoce-pátzcuaro:rsvp">
+    <file name="titles f-jp-01.png" crc="4017886800" seo="true" ref="conoce-pátzcuaro">
       <caption webpage="conoce-pátzcuaro" alt=""/>
       <caption webpage="conoce-pátzcuaro" alt=""/>
       <caption webpage="conoce-pátzcuaro" alt=""/>
@@ -293,12 +278,6 @@
       <caption webpage="conoce-pátzcuaro" alt=""/>
       <caption webpage="conoce-pátzcuaro" alt=""/>
       <caption webpage="conoce-pátzcuaro" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
-      <caption webpage="rsvp" alt=""/>
     </file>
     <file name="patzcuarocover.jpg" crc="535744431" ref="conoce-pátzcuaro">
       <caption webpage="conoce-pátzcuaro" alt=""/>
@@ -397,35 +376,7 @@
     <file name="img_1096 copy-u1125-fr4.jpg" crc="292448558" ref="conoce-pátzcuaro"/>
     <file name="img_0927 copy 2-u1145-fr4.jpg" crc="249478984" ref="conoce-pátzcuaro"/>
     <file name="patzcuaro_viaja_bonito_4 copy-u1148-fr4.jpg" crc="46735100" ref="conoce-pátzcuaro"/>
-    <file name="rsvp-favicon.ico" crc="4235034518" ref="rsvp"/>
-    <file name="checkboxunchecked.jpg" crc="495023700" ref="rsvp">
-      <caption webpage="rsvp" alt=""/>
-    </file>
-    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="rsvp">
-      <caption webpage="rsvp" alt=""/>
-    </file>
-    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="rsvp">
-      <caption webpage="rsvp" alt=""/>
-    </file>
-    <file name="checkboxchecked.jpg" crc="477278992" ref="rsvp">
-      <caption webpage="rsvp" alt=""/>
-    </file>
-    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="rsvp">
-      <caption webpage="rsvp" alt=""/>
-    </file>
-    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="rsvp">
-      <caption webpage="rsvp" alt=""/>
-    </file>
-    <file name="faby y jp rsvp.jpg" crc="3776896569" ref="rsvp">
-      <caption webpage="rsvp" alt=""/>
-    </file>
-    <file name="faby y jp rsvp-u11470-fr.jpg" crc="342026204" ref="rsvp"/>
-    <file name="faby y jp rsvp copy-u14953-fr.jpg" crc="3831390300" ref="rsvp"/>
-    <file name="faby y jp rsvp copy-u14953-fr2.jpg" crc="3944868579" ref="rsvp"/>
-    <file name="faby y jp rsvp copy-u14953-fr3.jpg" crc="509410365" ref="rsvp"/>
-    <file name="faby y jp rsvp copy-u14953-fr4.jpg" crc="3983910723" ref="rsvp"/>
   </folder>
-  <file name="index.html" crc="3943344157" seo="true" mt="1530749356968" redirect="true"/>
-  <file name="conoce-pátzcuaro.html" crc="3888884871" seo="true" mt="1530749331295" redirect="true"/>
-  <file name="rsvp.html" crc="321175993" seo="true" mt="1530677676688" redirect="true"/>
+  <file name="index.html" crc="4214523291" seo="true" mt="1530750354385" redirect="true"/>
+  <file name="conoce-pátzcuaro.html" crc="51708694" seo="true" mt="1530750283798" redirect="true"/>
 </manifest>

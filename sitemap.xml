@@ -54,16 +54,4 @@
       <image:loc>http://laweddingwebsite.com/proyectos/fabyjp/images/titles%20f-jp-08.png</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://laweddingwebsite.com/proyectos/fabyjp/rsvp.html</loc>
-    <lastmod>2018-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://laweddingwebsite.com/proyectos/fabyjp/images/titles%20f-jp-05.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laweddingwebsite.com/proyectos/fabyjp/images/titles%20f-jp-01.png</image:loc>
-    </image:image>
-  </url>
 </urlset>
