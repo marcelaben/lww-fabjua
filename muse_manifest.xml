@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laweddingwebsite.com/proyectos/fabyjp" resolutions="1x" timestamp="1530788784665">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laweddingwebsite.com/proyectos/fabyjp" resolutions="1x" timestamp="1530792017986">
   <folder name="css">
-    <file name="site_global.css" crc="3847540803"/>
-    <file name="master_master-patz.css" crc="269294070" ref="conoce-pátzcuaro"/>
-    <file name="nomq_preview_master_master-patz.css" crc="3871726359" ref="conoce-pátzcuaro"/>
-    <file name="master_master-main.css" crc="97296770" ref="index"/>
-    <file name="nomq_preview_master_master-main.css" crc="3816575029" ref="index"/>
-    <file name="index.css" crc="3916322078" ref="index"/>
-    <file name="nomq_index.css" crc="3995895694" ref="index"/>
-    <file name="conoce-p_tzcuaro.css" crc="342218891" ref="conoce-pátzcuaro"/>
-    <file name="nomq_conoce-p_tzcuaro.css" crc="4139195087" ref="conoce-pátzcuaro"/>
+    <file name="site_global.css" crc="3799182638"/>
+    <file name="master_master-main.css" crc="411937863" ref="index"/>
+    <file name="nomq_preview_master_master-main.css" crc="3921534007" ref="index"/>
+    <file name="master_master-patz.css" crc="3806343831" ref="conoce-pátzcuaro"/>
+    <file name="nomq_preview_master_master-patz.css" crc="4073741036" ref="conoce-pátzcuaro"/>
+    <file name="index.css" crc="4261023979" ref="index"/>
+    <file name="nomq_index.css" crc="4001589931" ref="index"/>
+    <file name="conoce-p_tzcuaro.css" crc="403599509" ref="conoce-pátzcuaro"/>
+    <file name="nomq_conoce-p_tzcuaro.css" crc="497622280" ref="conoce-pátzcuaro"/>
   </folder>
   <folder name="fonts">
-    <file name="circularstd-book.woff" crc="3857400199"/>
-    <file name="circularstd-book.eot" crc="451145261"/>
     <file name="remachine-script-personal-use-only.ttf.woff" crc="190971658"/>
     <file name="remachine-script-personal-use-only.ttf.eot" crc="273538391"/>
+    <file name="circularstd-book.woff" crc="3857400199"/>
+    <file name="circularstd-book.eot" crc="451145261"/>
     <file name="average-v6-latin-regular.woff" crc="285385230"/>
     <file name="average-v6-latin-regular.eot" crc="401112553"/>
     <file name="average-v6-latin-regular.svg" crc="3762825052"/>
@@ -227,6 +227,6 @@
     <file name="img_0927 copy 2-u1145-fr4.jpg" crc="249478984" ref="conoce-pátzcuaro"/>
     <file name="patzcuaro_viaja_bonito_4 copy-u1148-fr4.jpg" crc="46735100" ref="conoce-pátzcuaro"/>
   </folder>
-  <file name="index.html" crc="3970565346" seo="true" mt="1530788480781" redirect="true"/>
-  <file name="conoce-pátzcuaro.html" crc="3845930011" seo="true" mt="1530787025392" redirect="true"/>
+  <file name="index.html" crc="311835744" seo="true" mt="1530788480781" redirect="true"/>
+  <file name="conoce-pátzcuaro.html" crc="4288090805" seo="true" mt="1530791822386" redirect="true"/>
 </manifest>
